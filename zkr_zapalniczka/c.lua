@@ -42,7 +42,7 @@ AddEventHandler('zkr_zapalniczka:zapalniczkastart', function()
 	kordziki.x, 
 	kordziki.y, 
 	kordziki.z - 1, 
-	0.0000000001 --[[ number ]]
+	0.0000000001 
     )
 end)
 
